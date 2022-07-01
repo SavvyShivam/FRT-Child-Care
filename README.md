@@ -2,6 +2,8 @@
 
 Live Demo website link - https://happy-ocean-0d90da910.1.azurestaticapps.net/
 
+Project Video Link - https://youtu.be/UPTBytJkZSk
+
 ### Industry- Health
 
 ### Project Title - Child Care
