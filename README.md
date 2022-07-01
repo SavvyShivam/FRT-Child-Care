@@ -42,11 +42,14 @@ We know Health is very important for us to make our life better thats whys i mad
 
 
 ## Testimonials
+![Screenshot (348)](https://user-images.githubusercontent.com/85667548/176902482-d534a8f5-ea7a-40eb-a382-0049973ba51f.png)
 
 
 ## Contact Us Page
 
+![Screenshot (349)](https://user-images.githubusercontent.com/85667548/176902511-412969e1-d3ac-4b7b-9958-059acffff2e6.png)
 
+![Screenshot (350)](https://user-images.githubusercontent.com/85667548/176902568-3362a776-c1de-4ca1-aaad-b6306e0ceaab.png)
 
 
 
